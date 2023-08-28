@@ -1,0 +1,160 @@
+[
+    {
+        "id": "Idee en Designbrief",
+        "imageRef":[
+            {
+                "url":"Projects/_Boom/Boom.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-30%",
+                "height":"45em",
+                "top":"30%",
+                "left":"70%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/acoustic-pinboard/"
+            },
+            {
+                "url":"Projects/_Boom/BoomBack.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"33em",
+                "top":"35%",
+                "left":"70%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/acoustic-pinboard/"
+            },
+            {
+                "url":"Projects/_Boom/BoomSide.jpg",
+                "vocalpointX":"-80%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"40%",
+                "left":"80%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/design-coat-rack/"
+            },
+            {
+                "url":"Projects/_Boom/BoomGroen.jpg",
+                "vocalpointX":"-45%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"65%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/design-coat-rack/"
+            }
+        ],
+        "text": [
+            "Ideeenboom voor het kantoorbos",
+            "eisen als: transporteerbaar, passen in huisstijl,",
+            "geluidsdemping, ideeen canvas"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "product/ontwerp exploratie",
+        "imageRef":[
+            
+            {
+                "url":"Projects/_Boom/sketch5.jpg",
+                "vocalpointX":"-70%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"70%"
+            },
+            {
+                "url":"Projects/_Boom/sketch9.jpg",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"30%"
+            },
+            {
+                "url":"Projects/_Boom/sketch6.jpg",
+                "vocalpointX":"-80%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"75%"
+            },
+            {
+                "url":"Projects/_Boom/sketch8.jpg",
+                "vocalpointX":"-40%",
+                "vocalpointY":"-40%",
+                "height":"35em",
+                "top":"40%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_Boom/sketch7.jpg",
+                "vocalpointX":"-20%",
+                "vocalpointY":"-20%",
+                "height":"50em",
+                "top":"32%",
+                "left":"25%"
+            }
+            
+        ],
+        "text": [
+            "in wat voor vorm kunnen we dit samenbrengen?",
+            "materialen en technieken? transporteerbaarheid"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "uitwerking/cristalizering",
+        "imageRef":[
+            {
+                "url":"Projects/_Boom/sketch2.jpg",
+                "vocalpointX":"-40%",
+                "vocalpointY":"-25%",
+                "height":"33em",
+                "top":"28%",
+                "left":"40%"
+            },
+            {
+                "url":"Projects/_Boom/sketch1.jpg",
+                "vocalpointX":"-65%",
+                "vocalpointY":"-35%",
+                "height":"30em",
+                "top":"40%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_Boom/cardboard boom.png",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"35em",
+                "top":"45%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_Boom/prototype.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-35%",
+                "height":"35em",
+                "top":"40%",
+                "left":"50%"
+            }
+            
+        ],
+        "text": [
+            "prototyping, constructie bepalen, proof of concept",
+            "produceerbaarheid, transporteerbaarheid"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

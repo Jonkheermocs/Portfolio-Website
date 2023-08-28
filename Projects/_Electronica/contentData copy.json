@@ -1,0 +1,96 @@
+[
+    {
+        "id": "Deltaproto en PCB productie",
+        "imageRef":[
+            {
+                "url":"Projects/_Electronica/microplacer.jpg",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-60%",
+                "height":"45em",
+                "top":"50%",
+                "left":"50%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            },
+            {
+                "url":"Projects/_Electronica/kicad.png",
+                "vocalpointX":"-70%",
+                "vocalpointY":"-70%",
+                "height":"30em",
+                "top":"70%",
+                "left":"50%"
+            }
+            
+        ],
+        "text": [
+            "onderdelen inkoop, pcb bestucken, smd solderen,",
+            "donorcomponenten en alternatieven/het vinden van componenten",
+            "tijdens chip shortage"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "electrohardware hacken + makeymonday",
+        "imageRef":[
+            {
+                "url":"Projects/_Electronica/MakeyMonday.webp",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-55%",
+                "height":"45em",
+                "top":"50%",
+                "left":"60%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            },
+            {
+                "url":"Projects/_Electronica/LED matrix display.jpg",
+                "vocalpointX":"-45%",
+                "vocalpointY":"-60%",
+                "height":"60em",
+                "top":"70%",
+                "left":"50%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            }
+            
+        ],
+        "text": [
+            "inductiegrill, afvalpaal, koplamp fiets. hosten van een makers",
+            "evenement, ondersteuen en lullen over arduino."   
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "Do it yourself",
+        "imageRef":[
+            {
+                "url":"Projects/_Electronica/microplacer.jpg",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-60%",
+                "height":"45em",
+                "top":"50%",
+                "left":"50%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            }
+            
+        ],
+        "text": [
+            " kastlampen, kleding vermaken, apparaten repareren,",
+            "telefooncharger/oven, snijplank houder"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

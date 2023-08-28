@@ -1,0 +1,35 @@
+[
+    {
+        "id": "_Boom",
+        "location":"floor", 
+        "bottom": "0%", 
+        "left": "10%"
+        
+    },
+    { 
+        "id": "_RealF1",
+        "location":"desk", 
+        "bottom": "0%", 
+        "left": "27%"
+    },
+    { 
+        "id": "_AanTricas",
+        "location":"desk", 
+        "bottom": "0%", 
+        "left": "45%"
+    },
+    { 
+        "id": "_Electronica",
+        "location":"desk", 
+        "bottom": "0%", 
+        "left": "63%"
+    },
+    { 
+        "id": "_3D",
+        "location":"floor", 
+        "bottom": "0%", 
+        "left": "90%"
+    }
+
+
+]

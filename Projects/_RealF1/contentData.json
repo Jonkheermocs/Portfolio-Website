@@ -1,0 +1,171 @@
+[
+    {
+        "id": "Designbrief en product idee",
+        "imageRef":[
+            {
+                "url":"Projects/_RealF1/STILL6 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"50%",
+                "left":"60%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL5 BLACK.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"40em",
+                "top":"50%",
+                "left":"60%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL1 BLACK.jpg",
+                "vocalpointX":"-45%",
+                "vocalpointY":"-50%",
+                "height":"40em",
+                "top":"50%",
+                "left":"40%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            }
+        ],
+        "text": [
+            "In 2020 begon ik met 2 anderen aan een nieuw simrace stuurtje.",
+            "Doel: replica van Max Verstappens stuur, met extra functies",
+            "voor realisme en onderscheid. Mijn taak: fysiek ontwerp",
+            "op basis van referentiemateriaal van internet."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "concept ontwerp",
+        "imageRef":[
+            {
+                "url":"Projects/_RealF1/STILL13 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-50%",
+                "height":"40em",
+                "top":"60%",
+                "left":"60%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL14 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"50%",
+                "left":"60%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL8 BLACK.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-60%",
+                "height":"30em",
+                "top":"50%",
+                "left":"50%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL12 BLACK.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"42em",
+                "top":"55%",
+                "left":"30%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            }
+        ],
+        "text": [
+            "Voor extra functies en realisme bouwden we het ontwerp.",
+            "Concurrentie bracht meer uit; we herontwierpen elektronica",
+            "en verbeterden kwaliteit en repareerbaarheid. Fysieke delen",
+            "herzien voor extra realisme. Firmware herschreven voor",
+            "forcefeedback limieten. Uitdagingen met zwaarder model."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "materializering /DFMA",
+        "imageRef":[
+            
+            
+            {
+                "url":"Projects/_RealF1/protoprint1.jpg",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-45%",
+                "height":"35em",
+                "top":"50%"
+            },
+            {
+                "url":"Projects/_RealF1/protofoto5.jpg",
+                "vocalpointX":"-40%",
+                "vocalpointY":"-30%",
+                "height":"40em",
+                "top":"30%",
+                "left":"40%"
+            },
+            {
+                "url":"Projects/_RealF1/protofoto3.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-45%",
+                "height":"40em",
+                "top":"50%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_RealF1/protofoto9.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-60%",
+                "height":"30em",
+                "top":"60%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_RealF1/stressLines.png",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-60%",
+                "height":"35em",
+                "top":"50%",
+                "left":"50%",
+                "credits":"informative FEM topOpt in grasshopper",
+                "creditColor":"#A01010",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            }
+        ],
+        "text": [
+            "Nieuw ontwerp klaar? Productie kijken. Productie en",
+            "assemblage uitbesteed om vertraging te voorkomen.",
+            "Problemen met juiste lcd-scherm en spuitgietklare vorm.",
+            "Mijn inbreng in spuitgietklaar ontwerp na overleg",
+            "met experts. Herindelingen voor moeilijke features.",
+            "Top-bottem hertekenen voor onderdeelafstelling en interne",
+            "features. Streven naar optimale ruimtebenutting."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

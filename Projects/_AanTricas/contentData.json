@@ -1,0 +1,51 @@
+[
+    {
+        "id": "product engineering",
+        "imageRef":[
+            {
+                "url":"Projects/_Future/headShot.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-45%",
+                "height":"42em",
+                "top":"50%",
+                "left":"49%",
+                "credits":"click for CV",
+                "creditColor":"#4060B0",
+                "creditLink":"https://drive.google.com/file/d/1LqiCwJQ48-XtW0x30wNxYfGcWbOuZJ0f/view?usp=sharing"
+            }
+        ],
+        "text": [
+            "Ik hoop tricas als roductengineer te kunnen ondersteunen en verder te helpen",
+            "Ik wil mij verdiepen in design for manufacture/assembly en hoop daar ook design for repair aan toe te voegen",
+            "Ik wil meer leren over materiaalselectie, en de effecten op duurzame ontwikkelling van economische gelijkheid wereldwijd"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "electronica ontwikkeling",
+        "imageRef":[
+            {
+                "url":"Projects/_Future/microplacer.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"40em",
+                "top":"0%",
+                "left":"0%",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            }
+        ],
+        "text": [
+            "Ik hoop bij tricas de kans te kunnen krijgen om me te verbreden richting het ontwikkelen van electronica en het ontwerpen van circuits en pcbs",
+            "Ik zou dit graag verder bespreken om uit te vinden hoe deze leerweg er bij tricas het best passend uit zou omen te zien"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

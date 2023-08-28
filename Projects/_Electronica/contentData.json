@@ -1,0 +1,79 @@
+[
+    {
+        "id": "Deltaproto en PCB productie",
+        "imageRef":[
+            {
+                "url":"Projects/_Electronica/microplacer.jpg",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-60%",
+                "height":"45em",
+                "top":"50%",
+                "left":"50%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            },
+            {
+                "url":"Projects/_Electronica/kicad.png",
+                "vocalpointX":"-70%",
+                "vocalpointY":"-70%",
+                "height":"30em",
+                "top":"70%",
+                "left":"50%"
+            }
+            
+        ],
+        "text": [
+            "Bij Deltaproto werkte ik 1.5 jaar, van productie tot planning, inkoop, klantcontact en operations.",
+            "Componententekorten waren onze grootste uitdaging, dus vonden we creatieve manieren om bronnen te vinden.",
+            "Goed projectbeheer liet ons componenten tussen projecten verplaatsen.",
+            "Snelle iteraties lieten klanten ontwerpen afstemmen op chipbeschikbaarheid.",
+            "Flexibiliteit was een technische en organisatorische uitdaging.",
+            "Na 1.5 jaar met PCB's werk ik aan verdere ontwikkeling in pcb- en circuitontwerp."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "electrohardware hacken + makeymonday",
+        "imageRef":[
+            {
+                "url":"Projects/_Electronica/MakeyMonday.webp",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-55%",
+                "height":"45em",
+                "top":"50%",
+                "left":"60%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            },
+            {
+                "url":"Projects/_Electronica/LED matrix display.jpg",
+                "vocalpointX":"-45%",
+                "vocalpointY":"-60%",
+                "height":"60em",
+                "top":"70%",
+                "left":"50%",
+                "credits":"Foto by DeltaProto",
+                "creditColor":"#B00000",
+                "creditLink":"https://www.deltaproto.com/microplacer"
+            }
+            
+        ],
+        "text": [
+            "Naast werk in een PCB-fabriek, host ik MakeyMonday in Utrecht.",
+            "Daar werken mensen aan diverse projecten, van domotica tot educatieve tools.",
+            "Ik help vooral anderen, al werk ik nu aan een grillapparaat.",
+            "De uitdaging is om een inductiekookplaat om te bouwen en",
+            "het drivercircuit om te gaan met een nieuwe spoelvorm",
+            "en interferentie te minimaliseren voor de inductiewaarde."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

@@ -1,0 +1,104 @@
+[
+    {
+        "id": "3D printen",
+        "imageRef":[
+            {
+                "url":"Projects/_3D/printercalibratie.png",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-45%",
+                "height":"42em",
+                "top":"50%",
+                "left":"50%",
+                "credits":"printer calibratie",
+                "creditColor":"#4060B0"
+            },
+            {
+                "url":"Projects/_3D/Voron.png",
+                "vocalpointX":"-55%",
+                "vocalpointY":"-55%",
+                "height":"55em",
+                "top":"55%",
+                "left":"50%",
+                "credits":"printer calibratie",
+                "creditColor":"#4060B0"
+            }
+            
+        ],
+        "text": [
+            "Tijdens een stage begon mijn 3D-print interesse; werken ",
+            "met diverse printers. Vier jaar terug kocht ik mijn ",
+            "eerste budget Deltaprinter, een Anicubic Kossel, met ",
+            "indrukwekkende prints. Mijn passie groeide, ik kreeg ",
+            "een Voron v2.4 en streef nu naar hoge kwaliteit met ",
+            "toleranties onder 0.1 mm, plannen voor 0.01 mm. ",
+            "Elke print is een stap in mijn toewijding aan 3D. "
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "3D modellen",
+        "imageRef":[
+            {
+                "url":"Projects/_3D/formRender1.png",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-45%",
+                "height":"30em",
+                "top":"30%",
+                "left":"30%",
+                "credits":"printer calibratie",
+                "creditColor":"#4060B0"
+            },
+            
+            {
+                "url":"Projects/_3D/renderWheel2.png",
+                "vocalpointX":"-45%",
+                "vocalpointY":"-40%",
+                "height":"35em",
+                "top":"25%",
+                "left":"30%",
+                "credits":"printer calibratie",
+                "creditColor":"#4060B0"
+            },
+
+            {
+                "url":"Projects/_3D/grasshopperPattern.png",
+                "vocalpointX":"-35%",
+                "vocalpointY":"-60%",
+                "height":"55em",
+                "top":"30%",
+                "left":"30%",
+                "credits":"printer calibratie",
+                "creditColor":"#4060B0"
+            },
+
+            {
+                "url":"Projects/_3D/grasshopper latice.png",
+                "vocalpointX":"-65%",
+                "vocalpointY":"-45%",
+                "height":"35em",
+                "top":"33%",
+                "left":"80%",
+                "credits":"printer calibratie",
+                "creditColor":"#4060B0"
+            }
+            
+        ],
+        "text": [
+            "3D-tekenen begon in mijn schooltijd, met" ,
+            "SolidWorks en Fusion 360. Grenzen verkennen ",
+            "en modelleerstrategieën motiveerden me om ",
+            "in procesessenties te duiken. Via Fusion 360 API ",
+            "en Rhino/Grasshopper ontdekte ik generatieve ",
+            "ontwerpen, wat mijn inzicht in ",
+            "oppervlaktemodellering vergrootte. Ik onderzoek ",
+            "sub-d surfaces voor integratie in modellen. "
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+
