@@ -1,6 +1,6 @@
 [
     {
-        "id": "Deltaproto en PCB productie",
+        "id": "Deltaproto en PCB Productie",
         "imageRef":[
             {
                 "url":"Projects/_Electronica/microplacer.jpg",
@@ -24,16 +24,16 @@
             
         ],
         "text": [
-            "van 2020 tot 2022 heb ik bij been PCB fabriek (Deltaproto) gewerkt die zich specializeerd in kleine series en prototypen",
-            " Ik ben begonnen als productiemedewerker, maar ben op termijn ook productieplanning, inkoop, operational management en accouintmanaging gaan doen.",
-            " In deze periode was de grootste uitdaging het wereldwijde componententekort, waardoor veel van ons werd gevraagd in termen van flexibiliteit en communicatie"
+            "Van 2020 tot 2022 heb ik bij been PCB fabriek (Deltaproto) gewerkt die zich specializeert in kleine series en prototypen",
+            " Ik ben begonnen als productiemedewerker, maar ben op termijn ook productieplanning, inkoop, operational management en accountmanaging gaan doen.",
+            " In deze periode was de grootste uitdaging het wereldwijde componententekort, waardoor veel van ons werd gevraagd in termen van flexibiliteit en communicatie."
         ],
         "imageStyle": {
             "top": "1em"
         }
     },
     {
-        "id": "electrohardware hacken + makeymonday",
+        "id": "Electronica en Hardware Hacken",
         "imageRef":[
             {
                 "url":"Projects/_Electronica/MakeyMonday.webp",
@@ -60,10 +60,10 @@
             
         ],
         "text": [
-            "Naast werk in een PCB-fabriek, host ik een electronicabijeenkomst, MakeyMonday, in Utrecht.",
+            "Naast werk in een PCB-fabriek, host ik een electronicabijeenkomst(MakeyMonday) in Utrecht.",
             " Op maandagavond werken we samen aan diverse projecten, van domotica tot educatieve tools.",
-            " Zelf ben ik momenteel bezig met het ombouwen van een inductiekookplaat tot 2zijdige grill.",
-            " Hierbij is de uitdaging om te zorgen dat het drivercircuit om kan gaan met een andere spoelconfiguratie."
+            " Zelf ben ik momenteel bezig met het ombouwen van een inductiekookplaat tot een tweezijdige grill.",
+            " Hierbij is de uitdaging om te zorgen dat het driver circuit om kan gaan met een andere spoelconfiguratie."
         ],
         "imageStyle": {
             "top": "1em"
