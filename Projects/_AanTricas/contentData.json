@@ -1,6 +1,6 @@
 [
     {
-        "id": "product engineering",
+        "id": "Placeholder voor mijn eerste Tricas project",
         "imageRef":[
             {
                 "url":"Projects/_Future/headShot.jpg",
@@ -15,9 +15,7 @@
             }
         ],
         "text": [
-            "Ik hoop tricas als roductengineer te kunnen ondersteunen en verder te helpen",
-            "Ik wil mij verdiepen in design for manufacture/assembly en hoop daar ook design for repair aan toe te voegen",
-            "Ik wil meer leren over materiaalselectie, en de effecten op duurzame ontwikkelling van economische gelijkheid wereldwijd"
+            ""
         ],
         "imageStyle": {
             "top": "1em"
