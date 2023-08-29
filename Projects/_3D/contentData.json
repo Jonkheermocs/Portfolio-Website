@@ -25,13 +25,11 @@
             
         ],
         "text": [
-            "Tijdens een stage begon mijn 3D-print interesse; werken ",
-            "met diverse printers. Vier jaar terug kocht ik mijn ",
-            "eerste budget Deltaprinter, een Anicubic Kossel, met ",
-            "indrukwekkende prints. Mijn passie groeide, ik kreeg ",
-            "een Voron v2.4 en streef nu naar hoge kwaliteit met ",
-            "toleranties onder 0.1 mm, plannen voor 0.01 mm. ",
-            "Elke print is een stap in mijn toewijding aan 3D. "
+            "Mijn interesse in 3D printen begon tijdens een stage in 2019.",
+            " Tijdens deze stage kreeg ik de taak om een ontwerp te optimalizeren voor 3d printen.",
+            " Na afloop van deze stage kocht ik de eerste van 3 3d printers.",
+            " Op het moment ben ik vooral veel bezig met het afstellen van mijn laatste printer, een voron V2.4.",
+            " De komende maand ligt de focus op het verbeteren van maatnauwkeurigheid. Waarbij mijn doel is om onder de 0.1mm te komen",
         ],
         "imageStyle": {
             "top": "1em"
@@ -86,14 +84,13 @@
             
         ],
         "text": [
-            "3D-tekenen begon in mijn schooltijd, met" ,
-            "SolidWorks en Fusion 360. Grenzen verkennen ",
-            "en modelleerstrategieën motiveerden me om ",
-            "in procesessenties te duiken. Via Fusion 360 API ",
-            "en Rhino/Grasshopper ontdekte ik generatieve ",
-            "ontwerpen, wat mijn inzicht in ",
-            "oppervlaktemodellering vergrootte. Ik onderzoek ",
-            "sub-d surfaces voor integratie in modellen. "
+            "Al voor mijn hbo studie had ik al interesse in 3d tekenen, maar dit escaleerde nadat ik kennis maakte met Solidworks",
+            " Ik houd ervan om mezelf uit te dagen met organische en complexe vormen.",
+            " In de afgelopen jaren ben ik me meer gaan verdiepen in de software achter de CAD programma's, om beter te begrijpen welke strategien goed werken",
+            " Op deze manier ben ik ook begonnen met meer leren over CAD automatisering en heb ik een licentie voor Rhino7 met grasshopper aangeschaft.",
+            " Met grasshopper werk je op een lager niveau met 3d geometrie en heb je daardoor veel meer vrijheid in het maken van bijvoorbeeld patronen."
+            
+            
         ],
         "imageStyle": {
             "top": "1em"
