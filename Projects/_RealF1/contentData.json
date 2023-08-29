@@ -38,9 +38,12 @@
         ],
         "text": [
             "In 2020 begon ik met 2 anderen aan een nieuw simrace stuurtje.",
-            "Doel: replica van Max Verstappens stuur, met extra functies",
-            "voor realisme en onderscheid. Mijn taak: fysiek ontwerp",
-            "op basis van referentiemateriaal van internet."
+            " Doel: een bijna perfecte replica van het stuur van Max Verstappen,",
+            " met onderscheidende functionaliteit.",
+            " Mijn initiele taak: het fysieke ontwerp",
+            " zo dicht mogelijk krijgen bij het te vinden referentiemateriaal",
+            " op internet. Dit is op termijn uitgebreid naar ontwerpen voor productie",
+            " , assemblage en reparatie"
         ],
         "imageStyle": {
             "top": "1em"
@@ -95,11 +98,10 @@
             }
         ],
         "text": [
-            "Voor extra functies en realisme bouwden we het ontwerp.",
-            "Concurrentie bracht meer uit; we herontwierpen elektronica",
-            "en verbeterden kwaliteit en repareerbaarheid. Fysieke delen",
-            "herzien voor extra realisme. Firmware herschreven voor",
-            "forcefeedback limieten. Uitdagingen met zwaarder model."
+            "In ongeveer een jaar tijd hebben we in onze avonduren een werkend stuur kunnen neerzetten.",
+            " Op dit punt kwam Formule 1 met cockpit beelden waarop de achterkant van het stuur goed te zien was.",
+            " Voor ons betekende dit het hele ontwerp herzien omdat we met het nieuwe beeldmateriaal veel minder ruimte in het product hadden",
+            " ondertussen begon ik ook met het voorbereiden van het ontwerp voor spuitgieten."
         ],
         "imageStyle": {
             "top": "1em"
@@ -154,13 +156,13 @@
             }
         ],
         "text": [
-            "Nieuw ontwerp klaar? Productie kijken. Productie en",
-            "assemblage uitbesteed om vertraging te voorkomen.",
-            "Problemen met juiste lcd-scherm en spuitgietklare vorm.",
-            "Mijn inbreng in spuitgietklaar ontwerp na overleg",
-            "met experts. Herindelingen voor moeilijke features.",
-            "Top-bottem hertekenen voor onderdeelafstelling en interne",
-            "features. Streven naar optimale ruimtebenutting."
+            "Met het conceptontwerp klaar begint de optimalisatie voor productie.",
+            " Door gesprekken met spuitgiet ingenieurs hebben we potentiele problemen kunnen identificeren.",
+            " Om deze problemen te voorkomen hebben we het ontwerp van de grote schaaldelen moeten herzien.",
+            " Ook kregen we, door verder vertragingen bij onze marketingpartner, extra ontwikkeltijd om de feel",
+            " van alle buttons, flippers en draaiknoppen te verbeteren.",
+            " om verdere vertragingen zoveel mogelijk te voorkomen werken we samen met een partij die de hele productie+assemblage",
+            " voor ons kan doen in china"
         ],
         "imageStyle": {
             "top": "1em"
