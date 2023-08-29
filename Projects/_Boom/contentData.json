@@ -48,12 +48,16 @@
             }
         ],
         "text": [
-            "Vanwege RSI-klachten besloot ik in 2019 mijn studie tijdelijk te onderbreken.",
-            "Bij StudioVIX vond ik een stageplek waar ik zonder computer kon werken.",
-            "Daar werkte ik aan het idee van een 'kantoorboom', geïnspireerd door de",
-            "visie van StudioVIX: natuurlijke elementen in kantooromgevingen",
-            "voor creativiteit en stressvermindering. Dit leidde tot een ontwerp",
-            "voor een betaalbare, praktische kantoorboom met extra functionaliteiten."
+            " Bij StudioVIX heb ik in 2019 megewerkt aan",
+            " de ontwikkeling van een nieuwe productlijn onder de",
+            " projectnaam Ideeenboom. StudioVIX richt zich op het" ,
+            " inbrengen van verwijzingen naar natuur in de" ,
+            " werkomgeving met als doel het verlagen van stress en" ,
+            " het stimuleren van creativiteit. Het doel van dit project" ,
+            " was een ontwerp voor een ideeenbord dat ook geluid" ,
+            " dempt door gebruik te maken van filt. Het uiteindelijke" ,
+            " ontwerp gaf ook mogelijkheid tot andere functies," ,
+            " waarmee het project uitgroeide tot een productlijn."
         ],
         "imageStyle": {
             "top": "1em"
@@ -106,14 +110,16 @@
             
         ],
         "text": [
-            "Ik begon met het verkennen van diverse vormen, materialen en stijlen",
-            "voor de kantoorboom. Het concept evolueerde naar een driepotig stamontwerp",
-            "waarop bladen van vilt als prikbord en geluidsdemping fungeerden.",
-            "Dit ontwerp moest passen bij de bestaande StudioVIX-productlijn",
-            "en tegelijkertijd bijdragen aan de visie van een inspirerende",
-            "kantooromgeving. De creatieve ontdekkingsreis leidde tot een",
-            "uniek en functioneel concept dat verder werd geïntegreerd",
-            "met StudioVIX's visie."
+            "Ik begon met het verkennen van diverse vormen,",
+            " materialen en interactievormen voor de kantoorboom.",
+            " Door te proberen om dichter bij de stijl van het",
+            " bestaande portfolio te komenontstond het idee voor",
+            " een 3 poten frame als stam, met daarop bladen van dik",
+            " vilt als prikbord en geluidsdemping. Door het scheiden",
+            " van het het frame en de panelen kunnen we zo een",
+            " interessante 3D vorm creeren die tevens compact te",
+            " transporteren is. En het frame bied ook de mogelijkheid",
+            " voor andere functionaliteit, denk aan een kapstok."
         ],
         "imageStyle": {
             "top": "1em"
@@ -137,32 +143,21 @@
                 "height":"35em",
                 "top":"40%",
                 "left":"50%"
-            },
-            {
-                "url":"Projects/_Boom/sketch2.jpg",
-                "vocalpointX":"-40%",
-                "vocalpointY":"-25%",
-                "height":"33em",
-                "top":"28%",
-                "left":"40%"
-            },
-            {
-                "url":"Projects/_Boom/sketch1.jpg",
-                "vocalpointX":"-65%",
-                "vocalpointY":"-35%",
-                "height":"30em",
-                "top":"40%",
-                "left":"50%"
             }
             
             
         ],
         "text": [
-            "Na het conceptuele werk volgden praktische stappen.",
-            "Prototypes van materialen zoals pvc en karton beoordeelden stabiliteit.",
-            "Gesprekken met producent I-DID verfijnden het ontwerp.",
-            "We bereikten een patroon voor plaatmetaal en 3D-CAD-model.",
-            "De complexiteit van ontwerp en functionaliteit vereist een geïntegreerd concept."
+            "Het uitwerken van het frame bleek  nog een grote uitdaging.",
+            " Om vast te stellen hoe alles precies bij elkaar zou moeten",
+            " komen hebben we hoofdzakelijk gewerkt door middel van kartonnen",
+            " modellen. Op deze manier hebben we de vormgeving, assemblage en",
+            " stabiliteit van het ontwerp goed op alkaar af kunnen stemmen.",
+            " middels een aantal meetings met producenten hebben we problemen",
+            " voor de maakbaarheid kunnen identificeren en oplossen. Het project",
+            " is uiteindelijk afgerond met een eerste 1:1 materiaalecht prototype",
+            " als proof of concept. Later is het ontwerp verder geoptimaliseerd",
+            " en in productie gebracht."
         ],
         "imageStyle": {
             "top": "1em"
