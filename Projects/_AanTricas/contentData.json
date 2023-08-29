@@ -1,6 +1,6 @@
 [
     {
-        "id": "Placeholder voor mijn eerste Tricas project",
+        "id": "Placeholder voor mijn eerste Tricas project ;)",
         "imageRef":[
             {
                 "url":"Projects/_Future/headShot.jpg",
@@ -15,7 +15,7 @@
             }
         ],
         "text": [
-            ""
+            "Ik hoop jullie en keer te spreken over of ik wat voor jullie kan betekenen!"
         ],
         "imageStyle": {
             "top": "1em"
