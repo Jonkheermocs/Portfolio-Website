@@ -1,6 +1,6 @@
 [
     {
-        "id": "Designbrief en product idee",
+        "id": "Product Idee",
         "imageRef":[
             {
                 "url":"Projects/_RealF1/STILL6 BLACK.jpg",
@@ -40,9 +40,9 @@
             "In 2020 begon ik met 2 anderen aan een nieuw simrace stuurtje.",
             " Doel: een bijna perfecte replica van het stuur van Max Verstappen,",
             " met onderscheidende functionaliteit.",
-            " Mijn initiele taak: het fysieke ontwerp",
+            " Mijn taak: het fysieke ontwerp",
             " zo dicht mogelijk krijgen bij het te vinden referentiemateriaal",
-            " op internet. Dit is op termijn uitgebreid naar ontwerpen voor productie",
+            " op internet. Ook heb ik het ontwerp geoptimalizeerd voor productie",
             " , assemblage en reparatie"
         ],
         "imageStyle": {
@@ -50,7 +50,7 @@
         }
     },
     {
-        "id": "concept ontwerp",
+        "id": "Concept Ontwerp",
         "imageRef":[
             {
                 "url":"Projects/_RealF1/STILL13 BLACK.jpg",
@@ -100,15 +100,15 @@
         "text": [
             "In ongeveer een jaar tijd hebben we in onze avonduren een werkend stuur kunnen neerzetten.",
             " Op dit punt kwam Formule 1 met cockpit beelden waarop de achterkant van het stuur goed te zien was.",
-            " Voor ons betekende dit het hele ontwerp herzien omdat we met het nieuwe beeldmateriaal veel minder ruimte in het product hadden",
-            " ondertussen begon ik ook met het voorbereiden van het ontwerp voor spuitgieten."
+            " Voor ons betekende dit het hele ontwerp herzien omdat we met het nieuwe beeldmateriaal veel minder ruimte in het product hadden.",
+            " Ondertussen begon ik ook met het voorbereiden van het ontwerp voor spuitgieten."
         ],
         "imageStyle": {
             "top": "1em"
         }
     },
     {
-        "id": "materializering /DFMA",
+        "id": "Materializering /DFMA",
         "imageRef":[
             
             
@@ -156,9 +156,8 @@
             }
         ],
         "text": [
-            "Met het conceptontwerp klaar begint de optimalisatie voor productie.",
-            " Door gesprekken met spuitgiet ingenieurs hebben we potentiele problemen kunnen identificeren.",
-            " Om deze problemen te voorkomen hebben we het ontwerp van de grote schaaldelen moeten herzien.",
+            " Door gesprekken met spuitgiet ingenieurs hebben we potentiële problemen kunnen identificeren.",
+            " Om deze problemen te voorkomen hebben we het ontwerp van de grote behuizingdelen moeten herzien.",
             " Ook kregen we, door verder vertragingen bij onze marketingpartner, extra ontwikkeltijd om de feel",
             " van alle buttons, flippers en draaiknoppen te verbeteren."
         ],
