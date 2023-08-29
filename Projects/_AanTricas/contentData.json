@@ -20,29 +20,6 @@
         "imageStyle": {
             "top": "1em"
         }
-    },
-    {
-        "id": "electronica ontwikkeling",
-        "imageRef":[
-            {
-                "url":"Projects/_Future/microplacer.jpg",
-                "vocalpointX":"-50%",
-                "vocalpointY":"-40%",
-                "height":"40em",
-                "top":"0%",
-                "left":"0%",
-                "credits":"Render by Lucas Postma",
-                "creditColor":"green",
-                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
-            }
-        ],
-        "text": [
-            "Ik hoop bij tricas de kans te kunnen krijgen om me te verbreden richting het ontwikkelen van electronica en het ontwerpen van circuits en pcbs",
-            "Ik zou dit graag verder bespreken om uit te vinden hoe deze leerweg er bij tricas het best passend uit zou omen te zien"
-        ],
-        "imageStyle": {
-            "top": "1em"
-        }
     }
 ]
 
