@@ -42,8 +42,8 @@
                 "url":"Projects/_3D/formRender1.png",
                 "vocalpointX":"-30%",
                 "vocalpointY":"-45%",
-                "height":"30em",
-                "top":"30%",
+                "height":"35em",
+                "top":"45%",
                 "left":"30%",
                 "credits":"printer calibratie",
                 "creditColor":"#4060B0"
@@ -53,9 +53,9 @@
                 "url":"Projects/_3D/renderWheel2.png",
                 "vocalpointX":"-45%",
                 "vocalpointY":"-40%",
-                "height":"35em",
-                "top":"25%",
-                "left":"30%",
+                "height":"36em",
+                "top":"30%",
+                "left":"31%",
                 "credits":"printer calibratie",
                 "creditColor":"#4060B0"
             },
@@ -64,8 +64,8 @@
                 "url":"Projects/_3D/grasshopperPattern.png",
                 "vocalpointX":"-35%",
                 "vocalpointY":"-60%",
-                "height":"55em",
-                "top":"30%",
+                "height":"40em",
+                "top":"60%",
                 "left":"30%",
                 "credits":"printer calibratie",
                 "creditColor":"#4060B0"
@@ -75,9 +75,9 @@
                 "url":"Projects/_3D/grasshopper latice.png",
                 "vocalpointX":"-65%",
                 "vocalpointY":"-45%",
-                "height":"35em",
-                "top":"33%",
-                "left":"80%",
+                "height":"38em",
+                "top":"40%",
+                "left":"65%",
                 "credits":"printer calibratie",
                 "creditColor":"#4060B0"
             }
@@ -94,5 +94,3 @@
         }
     }
 ]
-
-

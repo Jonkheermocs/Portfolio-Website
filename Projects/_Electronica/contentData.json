@@ -8,7 +8,7 @@
                 "vocalpointY":"-60%",
                 "height":"45em",
                 "top":"50%",
-                "left":"50%",
+                "left":"40%",
                 "credits":"Foto by DeltaProto",
                 "creditColor":"#B00000",
                 "creditLink":"https://www.deltaproto.com/microplacer"
@@ -17,7 +17,7 @@
                 "url":"Projects/_Electronica/kicad.png",
                 "vocalpointX":"-70%",
                 "vocalpointY":"-70%",
-                "height":"30em",
+                "height":"32em",
                 "top":"70%",
                 "left":"50%"
             }
@@ -70,5 +70,3 @@
         }
     }
 ]
-
-

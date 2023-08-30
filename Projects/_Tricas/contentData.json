@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Placeholder voor mijn eerste Tricas project ;)",
+        "imageRef":[
+            {
+                "url":"Projects/_Tricas/headShot.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-45%",
+                "height":"42em",
+                "top":"50%",
+                "left":"49%"
+            },
+            {
+                "url":"Projects/_Tricas/CV.png",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-45%",
+                "height":"35em",
+                "top":"50%",
+                "left":"55%",
+                "credits":"click for CV",
+                "creditColor":"#4060B0",
+                "creditLink":"https://drive.google.com/file/d/10Br-rDKvDUwmu10MXOKWOWkXA6MgiItb/view?usp=sharing"
+            }
+        ],
+        "text": [
+            "Graag spreek ik jullie over of ik wat voor Tricas kan betekenen!"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]

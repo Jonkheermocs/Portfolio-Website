@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": "Idee en Designbrief",
@@ -166,3 +167,172 @@
 ]
 
 
+=======
+[
+    {
+        "id": "Idee en Designbrief",
+        "imageRef":[
+            {
+                "url":"Projects/_Boom/Boom.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-30%",
+                "height":"45em",
+                "top":"30%",
+                "left":"70%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/acoustic-pinboard/"
+            },
+            {
+                "url":"Projects/_Boom/BoomBack.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"33em",
+                "top":"35%",
+                "left":"70%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/acoustic-pinboard/"
+            },
+            {
+                "url":"Projects/_Boom/BoomSide.jpg",
+                "vocalpointX":"-80%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"40%",
+                "left":"80%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/design-coat-rack/"
+            },
+            {
+                "url":"Projects/_Boom/BoomGroen.jpg",
+                "vocalpointX":"-45%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"65%",
+                "credits":"Foto by studio VIX",
+                "creditColor":"#306060",
+                "creditLink":"https://studiovix.nl/en/products/design-coat-rack/"
+            }
+        ],
+        "text": [
+            " Bij StudioVIX heb ik in 2019 meegewerkt aan",
+            " de ontwikkeling van een nieuwe productlijn onder de",
+            " projectnaam Ideeënboom. StudioVIX richt zich op het" ,
+            " inbrengen van verwijzingen naar natuur in de" ,
+            " werkomgeving met als doel het verlagen van stress en" ,
+            " het stimuleren van creativiteit. Het doel van dit project" ,
+            " was een ontwerp voor een ideeënbord dat ook geluid" ,
+            " dempt door gebruik te maken van filt. Het uiteindelijke" ,
+            " ontwerp gaf ook mogelijkheid tot andere functies," ,
+            " waarmee het project uitgroeide tot een productlijn."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "Ontwerp Exploratie",
+        "imageRef":[
+            
+            {
+                "url":"Projects/_Boom/sketch5.jpg",
+                "vocalpointX":"-70%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"70%"
+            },
+            {
+                "url":"Projects/_Boom/sketch9.jpg",
+                "vocalpointX":"-30%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"30%"
+            },
+            {
+                "url":"Projects/_Boom/sketch6.jpg",
+                "vocalpointX":"-80%",
+                "vocalpointY":"-50%",
+                "height":"30em",
+                "top":"50%",
+                "left":"75%"
+            },
+            {
+                "url":"Projects/_Boom/sketch8.jpg",
+                "vocalpointX":"-40%",
+                "vocalpointY":"-40%",
+                "height":"35em",
+                "top":"40%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_Boom/sketch7.jpg",
+                "vocalpointX":"-20%",
+                "vocalpointY":"-20%",
+                "height":"50em",
+                "top":"32%",
+                "left":"25%"
+            }
+            
+        ],
+        "text": [
+            "Ik begon met het verkennen van diverse vormen,",
+            " materialen en interactievormen voor de kantoorboom.",
+            " Door te proberen om dichter bij de stijl van het",
+            " bestaande portfolio te komen, ontstond het idee voor",
+            " een 3 poten frame als stam met daarop bladen van dik",
+            " vilt als prikbord en geluidsdemping. Door het scheiden",
+            " van het het frame en de panelen konden we zo een",
+            " interessante 3D vorm creëren die tevens compact te",
+            " transporteren is. En het frame bied ook de mogelijkheid",
+            " voor andere functionaliteiten, denk aan een kapstok."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "Uitwerking",
+        "imageRef":[
+            {
+                "url":"Projects/_Boom/cardboard boom.png",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"35em",
+                "top":"45%",
+                "left":"50%"
+            },
+            {
+                "url":"Projects/_Boom/prototype.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-35%",
+                "height":"35em",
+                "top":"40%",
+                "left":"50%"
+            }
+            
+            
+        ],
+        "text": [
+            "Het uitwerken van het frame bleek  nog een grote uitdaging.",
+            " Om vast te stellen hoe alles precies bij elkaar zou moeten",
+            " komen hebben we hoofdzakelijk gewerkt door middel van kartonnen",
+            " modellen. Op deze manier hebben we de vormgeving, assemblage en",
+            " stabiliteit van het ontwerp goed op alkaar af kunnen stemmen.",
+            " middels een aantal meetings met producenten hebben we problemen",
+            " voor de maakbaarheid kunnen identificeren en oplossen. Het project",
+            " is uiteindelijk afgerond met een 1:1 materiaalecht prototype",
+            " als proof of concept. Later is het ontwerp verder geoptimaliseerd",
+            " en in productie gebracht."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+>>>>>>> 3cb66b8 (changes to coloring/styling and to the contents of the tricas page)
